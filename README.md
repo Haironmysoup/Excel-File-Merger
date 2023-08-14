@@ -23,7 +23,7 @@ pip install pandas
 1. Clone the repository:
 
 ```console
-git clone https://github.com/haironmysoup/excel-file-merger.git
+git clone https://github.com/Haironmysoup/excel-file-merger.git
 ```
 2. Navigate to the project directory:
 
